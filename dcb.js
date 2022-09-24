@@ -14,7 +14,7 @@ let ppre = 0;
 while ((re = regexp.exec(txt))) {
   let currentNumber = re[1];
   if (ppre + 1 == currentNumber) {
-    arr[currentNumber] = re.slice(0, 6);
+    arr[currentNumber] = [Number(re[1]), re[2].trim()];
     ppre++;
     let world = re[2];
     if (worlds.has(world)) {
@@ -56,7 +56,7 @@ fs.writeFileSync(dcbJson, JSON.stringify(arr));
 
 
 // console.log('单词-------------------');
-fs.writeFileSync(dcbTxt, arr.map(i => i[2].trim()).join(', '))
+fs.writeFileSync(dcbTxt, arr.map(i => i[1]).join(', '))
 
 let group = [];
 let groupItem = null;
@@ -65,8 +65,8 @@ while ((groupItem = arr.splice(0, 500)).length) {
 }
 let str = '';
 group.forEach((gArr, idx) => {
-  str += `分组${idx + 1},个数${gArr.length}-------------------\n`;
-  str += gArr.map(i => i[2].trim()).join(',') + '\n';
+  str += `# 分组${idx + 1},个数${gArr.length}-------------------\n`;
+  str += gArr.map(i => i[1]).join(',') + '\n\n';
 })
 fs.writeFileSync(dcb500, str);
 console.log('total worlds:', totalCount, `total groups:`, group.length);
