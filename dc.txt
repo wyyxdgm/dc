@@ -5742,7 +5742,7 @@ There is a shortage of clean energy supply.
 （
 09,T3） 
 清洁能源供应短缺 
-74 level 
+742 level 
 ['lɛvl] 
 n.水平,水准;等级 
 a.水平的,平的 v. 
@@ -7317,7 +7317,7 @@ e
 r
 s
 . 
-（11, T5）快餐行业也要停止通过玩具、 
+（11, T5）快餐行业也要停止通过玩具 
 可爱小动物、手机积分等“诱饵”来引诱 
 青少年顾客。 
 925 grocery 
@@ -7797,7 +7797,7 @@ lɔɪi:]
 n.雇工,雇员 Employee puts in hours of physical or 
 mental labor.（15,T1）员工投入数小时的 
 体力或脑力劳动。 
-979、 single 
+979 single 
 [ˈsɪŋgl] 
 a.单人的;单 
 一的,单个的; 
@@ -7891,7 +7891,7 @@ From somewhere distant he heard the
 clatter of a typewriter. 
 他听见从远处什么地方传来打字机的嗒 
 嗒声。 
-991、 delivery 
+991 delivery 
 [dɪˈlɪvəri] 
 n.分娩;传送, 
 投递; [法]（正 
@@ -8675,7 +8675,7 @@ If you’re failing to expose your child to
 （17,T2） 
 如果你的孩子接触不到 3 万个单词,那 
 你就是忽略了他们。 
-107 spree 
+1078 spree 
 [spri:] 
 n.狂欢;欢闹;无 
 节制的狂热行 
@@ -9585,7 +9585,7 @@ to the idea.
 1181 rigid 
 [ˈrɪdʒɪd] 
 a.僵硬的;严 
-格的;（规则、 
+格的;（规则 
 方法等）死板 
 的; 刚硬的, 
 顽固的 
@@ -9784,7 +9784,7 @@ extra— their unique value contribution.
 （13,T1） 
 因此,每个人都需要找到自己独特的价值贡 
 献。 
-1201 senior 
+1202 senior 
 [ˈsi:niə(r)] 
 a.资深的;（级 
 别、地位等） 
@@ -11151,7 +11151,7 @@ n.极端;最大
 Some people with a high BMI are in fact 
 extremely fit.（14,完型） 
 一些 BMI 指数高的人实际上非常健康。 
-1355、 arise 
+1355 arise 
 [əˈraɪz] 
 v.出现,发 
 生;(+from) 
@@ -11388,7 +11388,7 @@ a.平民的;民
 用的 
 The soldiers shared with each other and the 
 civilians: coffee, tobacco, whiskey, shelter. 
-（12,完型）士兵们和民众之间共享如咖啡、 
+（12,完型）士兵们和民众之间共享如咖啡 
 烟草、威士忌等物品。 
 1385 civilization 
 [ˌsɪvɪlaɪˈzeɪʃən] 
@@ -13781,7 +13781,7 @@ a.错综复杂
 What WhatsApp offered Facebook was an 
 intricate and finely detailed web of its users' 
 friendships and social lives.（18,T3） 
-WhatsApp 提供给脸书的是一张错综复杂、 
+WhatsApp 提供给脸书的是一张错综复杂 
 细节详尽的关系网,上面布满用户的朋友圈 
 以及社交生活的信息。 
 1662 incentive 
@@ -16045,7 +16045,7 @@ welding equipment
 （17,T5）焊接设备 
 1953 cope 
 [kəʊp] 
-v.(+with) 竞、 
+v.(+with) 竞 
 争, 抗;(+with) 
 对付,妥善处理 
 She has written a practical guide about how 
@@ -16842,7 +16842,7 @@ holiday. 他们肯定需要时间重新适应假期结
 [brɪm] 
 n.边缘,帽沿 Richard filled her glass right up to the brim. 
 理查德给她倒了满满一杯。 
-2050 bubble 
+2060 bubble 
 [ˈbʌbl] 
 n.泡 , 水 泡 , 
 气 泡 
@@ -17205,7 +17205,7 @@ The agency said it would not prosecute landowners
 or businesses that unintentionally kill, harm, or 
 disturb the bird. 
 （
-2016,T2）机构说它不会起诉那些非故意杀害、 
+2016,T2）机构说它不会起诉那些非故意杀害 
 伤害或者惊扰了这个鸟类的土地主或企业。 
 2110 doubt 
 [daʊt] 
